@@ -1,2 +1,2 @@
 # Image-Captioning-VLM
-sam
+VLM -  salesforce/blip2
