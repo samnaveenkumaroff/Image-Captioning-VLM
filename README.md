@@ -191,22 +191,30 @@ Made with ❤️ .
 
 ---
 
+GitHub Markdown **does not support `target="_blank"` natively**, but GitHub **does allow inline HTML**.
+So the **correct and working solution** is to use **HTML anchor tags** instead of pure Markdown links.
+
+Below is the **READY-TO-PASTE version** of your section.
+All links will open in a **new tab** ✅
+
+---
+
 ## 🌐 Connect With Me
 
-📧 **Email**:
-[samnaveenkumaroff@gmail.com](mailto:samnaveenkumaroff@gmail.com)
+📧 **Email**: <a href="mailto:samnaveenkumaroff@gmail.com" target="_blank" rel="noopener noreferrer">
+[samnaveenkumaroff@gmail.com](mailto:samnaveenkumaroff@gmail.com) </a>
 
-💼 **LinkedIn**:
-[https://www.linkedin.com/in/samnaveenkumaroff/](https://www.linkedin.com/in/samnaveenkumaroff/)
+💼 **LinkedIn**: <a href="https://www.linkedin.com/in/samnaveenkumaroff/" target="_blank" rel="noopener noreferrer">
+[linkedin.com/in/samnaveenkumaroff/](https://www.linkedin.com/in/samnaveenkumaroff/) </a>
 
-🐙 **GitHub**:
-[https://github.com/samnaveenkumaroff](https://github.com/samnaveenkumaroff)
+🐙 **GitHub**: <a href="https://github.com/samnaveenkumaroff" target="_blank" rel="noopener noreferrer">
+[github.com/samnaveenkumaroff](https://github.com/samnaveenkumaroff) </a>
 
-✍️ **Medium**:
-[https://medium.com/@samnaveenkumaroff](https://medium.com/@samnaveenkumaroff)
+✍️ **Medium**: <a href="https://medium.com/@samnaveenkumaroff" target="_blank" rel="noopener noreferrer">
+[medium.com/@samnaveenkumaroff](https://medium.com/@samnaveenkumaroff) </a>
 
-📸 **Portfolio / Projects**:
-[https://github.com/samnaveenkumaroff/](https://github.com/samnaveenkumaroff/)
+📸 **Portfolio / Projects**: <a href="https://github.com/samnaveenkumaroff/" target="_blank" rel="noopener noreferrer">
+[github.com/samnaveenkumaroff/](https://github.com/samnaveenkumaroff/) </a>
 
 ---
 
