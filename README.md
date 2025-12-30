@@ -197,7 +197,7 @@ Made with ❤️ .
 [samnaveenkumaroff@gmail.com](mailto:samnaveenkumaroff@gmail.com)
 
 💼 **LinkedIn**:
-[https://www.linkedin.com/in/sam-naveenkumar-v/](https://www.linkedin.com/in/samnaveenkumaroff/)
+[https://www.linkedin.com/in/samnaveenkumaroff/](https://www.linkedin.com/in/samnaveenkumaroff/)
 
 🐙 **GitHub**:
 [https://github.com/samnaveenkumaroff](https://github.com/samnaveenkumaroff)
@@ -206,7 +206,7 @@ Made with ❤️ .
 [https://medium.com/@samnaveenkumaroff](https://medium.com/@samnaveenkumaroff)
 
 📸 **Portfolio / Projects**:
-[https://github.com/samnaveenkumaroff?tab=repositories](https://github.com/samnaveenkumaroff/)
+[https://github.com/samnaveenkumaroff/](https://github.com/samnaveenkumaroff/)
 
 ---
 
