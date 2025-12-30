@@ -10,7 +10,7 @@
 
 **Image-Captioning-VLM** is a deep learning–based project that leverages **Salesforce’s BLIP-2 Vision–Language Model** to automatically generate descriptive captions for images.
 
-This project demonstrates how **vision encoders + large language models (LLMs)** can be combined to perform multimodal reasoning — a core concept behind modern AI systems such as GPT-4V, Gemini, and Claude Vision.
+This project demonstrates how **vision encoders + large language models (LLMs)** can be combined to perform multimodal reasoning a core concept behind modern AI systems such as GPT-4V, Gemini, and Claude Vision.
 
 ---
 
@@ -35,7 +35,7 @@ This project demonstrates how **vision encoders + large language models (LLMs)**
 ### Model Used
 
 * **BLIP-2** by Salesforce
-  (`Salesforce/blip2-flan-t5-xl` or similar)
+  (`Salesforce/blip2-flan-t5-xl`)
 
 BLIP-2 bridges vision and language by:
 
