@@ -191,14 +191,6 @@ Made with ❤️ .
 
 ---
 
-GitHub Markdown **does not support `target="_blank"` natively**, but GitHub **does allow inline HTML**.
-So the **correct and working solution** is to use **HTML anchor tags** instead of pure Markdown links.
-
-Below is the **READY-TO-PASTE version** of your section.
-All links will open in a **new tab** ✅
-
----
-
 ## 🌐 Connect With Me
 
 📧 **Email**: <a href="mailto:samnaveenkumaroff@gmail.com" target="_blank" rel="noopener noreferrer">
